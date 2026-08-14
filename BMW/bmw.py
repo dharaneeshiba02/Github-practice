@@ -9,7 +9,7 @@ class BMW(ABC):
         self.engine = engine
         self.slogan = "Its Bayerische Motoren Werke !"
 
-        print("Great Selection , always a BMW")
+        print("Great Choice, always a BMW")
 
     def build_car(self,Model,Color):
 
