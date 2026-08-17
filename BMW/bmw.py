@@ -7,7 +7,7 @@ class BMW(ABC):
         self.brand = 'BMW'
         self.Hp = Hp
         self.engine = engine
-        self.slogan = "Its Bayerische Motoren Werke !"
+        self.slogan = "Its Bayerische Motoren Werke !!"
 
         print("Great Choice, always a BMW")
 
